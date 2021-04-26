@@ -7,6 +7,7 @@ My task was to build a Node.js command-line application that takes in informatio
 Because this application won’t be deployed, I needed to provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing. 
 
 Which can be seen here: 
+<https://drive.google.com/file/d/1vsEKYupFrX6lLwJLvUbPBMEyVjzgPNAE/view?usp=sharing>
 
 ## Repository
 
